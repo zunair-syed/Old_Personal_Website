@@ -1,13 +1,12 @@
 ##MY Personal Website##
 =======================
 
-
 ####Summary####
-I first programmed my first website in grade 10 at the age of 14 when I first learned HTML and CSS. Back then, HTML5 and CSS3 were not invented. However, I recently updated this website with HTML5 and some CSS3.
+I first programmed my first website in grade 10 at the age of 14 when I first learned HTML and CSS. I recently updated this website with HTML5 and some CSS3.
 
 
 ####This is my Current Website####
-This is my current website, so if you want to visit this, you can actually just click the link in my github profile or go here --> ece.uwaterloo.ca/~zu2syed
+This is currently my main website that features my hobbies, interests, projects, and a bunch of other things. Please visit my <a href="https://ece.uwaterloo.ca/~zu2syed/index.html" >Personal Wesbite</a>
 
 
 ####Some Problems####
