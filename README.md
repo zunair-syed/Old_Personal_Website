@@ -1,4 +1,4 @@
-##MY Personal Website##
+##My Personal Website##
 =======================
 
 ####Summary####
