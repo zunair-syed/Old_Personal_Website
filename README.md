@@ -1,5 +1,4 @@
 ##My Personal Website##
-=======================
 
 ####Summary####
 I first programmed my first website in grade 10 at the age of 14 when I first learned HTML and CSS. I recently updated this website with HTML5 and some CSS3.
