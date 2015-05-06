@@ -9,4 +9,4 @@ This is currently my main website that features my hobbies, interests, projects,
 
 
 ####Why not just use a template?####
-This website is made purely with HTML and CSS, with some JavaScript. I have not used any third party libraries/templates/frameworks even though it may produce a better looking UI/UX. I personally believe that making products out of the scracth gives you an in depth coverage of the technologies used. I could have just used Bootstrap, but I then I wouldn't have been able to fully architect my website creating all CSS classes on my own. However, Your Mileage May Vary. 
+This website is made purely with HTML and CSS, with some JavaScript. I have not used any third party libraries/templates/frameworks even though it may produce a better looking UI/UX. I personally believe that making products out of the scratch gives you an in depth coverage of the technologies used. I could have just used Bootstrap, but I then I wouldn't have been able to fully architect my website creating all CSS classes on my own. However, Your Mileage May Vary with this debate. 
