@@ -5,7 +5,8 @@ I first programmed my first website in grade 10 at the age of 14 when I first le
 
 
 ####This is my Current Website####
-This is currently my main website that features my hobbies, interests, projects, and a bunch of other things. Please visit my <a href="https://ece.uwaterloo.ca/~zu2syed/index.html" >Personal Wesbite</a>
+This is features my hobbies, interests, projects, and a bunch of other things. Please visit my <a href="https://ece.uwaterloo.ca/~zu2syed/index.html" >Old Personal Wesbite</a>.
+For the newer site, visit <a href="https://www.zunair-syed.github.io" >zunairsyed.me</a>.
 
 
 ####Why not just use a template?####
